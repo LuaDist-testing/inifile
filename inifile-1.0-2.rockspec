@@ -1,17 +1,18 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "inifile"
-version = "1.0-1"
+version = "1.0-2"
 
 -- LuaDist source
 source = {
-  tag = "1.0-1",
+  tag = "1.0-2",
   url = "git://github.com/LuaDist-testing/inifile.git"
 }
 -- Original source
 -- source = {
--- 	url = "git://github.com/bartbes/love-misc-libs.git",
--- 	dir = "love-misc-libs/inifile",
+-- 	url = "git://github.com/bartbes/inifile.git",
+-- 	dir = "inifile",
+-- 	tag = "v1.0",
 -- }
 
 description = {
